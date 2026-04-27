@@ -1,0 +1,8 @@
+// Application-level settings for the Runner target.
+
+PRODUCT_NAME = flutter_app
+
+// Fixed Bundle Identifier (no underscore)
+PRODUCT_BUNDLE_IDENTIFIER = com.aniya.loginpage
+
+PRODUCT_COPYRIGHT = Copyright © 2026 Aniya. All rights reserved.
